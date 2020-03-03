@@ -1,12 +1,20 @@
 from tkinter import *
-root=Tk()
+
+root = Tk()
 root.geometry('300x300')
 root.title("Music Player")
 
 
-text=Label(root,text='Lets play music')
+text = Label(root, text='Lets play music')
 text.pack()
-photo=PhotoImage(file='play.png')
-photolabel=Label(root,image=photo)
-photolabel.pack()
+
+
+def play_btn():
+    print("Hey!")
+
+
+photo = PhotoImage(file='play.png')
+btn = Button(root, image=photo, command=play_btn)
+btn.pack()
+
 root.mainloop()
