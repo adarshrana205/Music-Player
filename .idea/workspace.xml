@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad7ee09b-22e0-417c-84f6-e89b28b35702" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y1ll8HgUtoeSsdMxyHr9MpXUf5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Code">
+    <configuration name="Code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Music_Player" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Music_Player" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Code" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad7ee09b-22e0-417c-84f6-e89b28b35702" name="Default Changelist" comment="" />
+      <created>1582118129157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582118129157</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="770" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1583215945331">
+      <screen x="55" y="27" width="1865" height="1053" />
+    </state>
+    <state x="770" y="311" width="424" height="491" key="FileChooserDialogImpl/55.27.1865.1053@55.27.1865.1053" timestamp="1583215945331" />
+    <state width="1842" height="275" key="GridCell.Tab.0.bottom" timestamp="1583215912635">
+      <screen x="55" y="27" width="1865" height="1053" />
+    </state>
+    <state width="1842" height="275" key="GridCell.Tab.0.bottom/55.27.1865.1053@55.27.1865.1053" timestamp="1583215912635" />
+    <state width="1842" height="275" key="GridCell.Tab.0.center" timestamp="1583215912634">
+      <screen x="55" y="27" width="1865" height="1053" />
+    </state>
+    <state width="1842" height="275" key="GridCell.Tab.0.center/55.27.1865.1053@55.27.1865.1053" timestamp="1583215912634" />
+    <state width="1842" height="275" key="GridCell.Tab.0.left" timestamp="1583215912634">
+      <screen x="55" y="27" width="1865" height="1053" />
+    </state>
+    <state width="1842" height="275" key="GridCell.Tab.0.left/55.27.1865.1053@55.27.1865.1053" timestamp="1583215912634" />
+    <state width="1842" height="275" key="GridCell.Tab.0.right" timestamp="1583215912635">
+      <screen x="55" y="27" width="1865" height="1053" />
+    </state>
+    <state width="1842" height="275" key="GridCell.Tab.0.right/55.27.1865.1053@55.27.1865.1053" timestamp="1583215912635" />
+    <state x="643" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1582913084272">
+      <screen x="55" y="27" width="1865" height="1053" />
+    </state>
+    <state x="643" y="381" key="com.intellij.ide.util.TipDialog/55.27.1865.1053@55.27.1865.1053" timestamp="1582913084272" />
+    <state x="650" y="259" key="search.everywhere.popup" timestamp="1582119397125">
+      <screen x="55" y="27" width="1865" height="1053" />
+    </state>
+    <state x="650" y="259" key="search.everywhere.popup/55.27.1865.1053@55.27.1865.1053" timestamp="1582119397125" />
+  </component>
+</project>
